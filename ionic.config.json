@@ -1,0 +1,7 @@
+{
+  "name": "test-menu-ng-mod",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
